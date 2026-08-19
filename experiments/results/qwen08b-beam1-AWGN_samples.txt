@@ -1,0 +1,51 @@
+
+===== SNR 0 dB =====
+HEDEF : i therefore call on the commission to intervene in this matter
+ÇÖZÜM : n or m and the corresponding element should in this case
+---
+HEDEF : madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy
+ÇÖZÜM : na irstart you don t like the product we have tried now the cost high and quality we have proven to be after the year no other
+---
+HEDEF : i would like to begin by thanking the rapporteurs mr varela and mr teverson
+ÇÖZÜM : nccino nccii n c rino trccii n cr iiiin
+---
+HEDEF : the next item is the vote on the report a by mr varela suanzes carpegna
+ÇÖZÜM : off at the front of the left and the a bit well behind that is left in his mouth after
+---
+HEDEF : parliament adopted the legislative resolution the next item is the vote on the report a by mr teverson
+ÇÖZÜM : js require createitjs library of create item is less than or equal than a reasonable power if they
+---
+
+===== SNR 6 dB =====
+HEDEF : i therefore call on the commission to intervene in this matter
+ÇÖZÜM : n erism on the commission to intervene in this matter
+---
+HEDEF : madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy
+ÇÖZÜM : madam shail j am n make parliament points to the commissioner concerning mr teverson s report on the commission report on monitoring the list fisheries policy
+---
+HEDEF : i would like to begin by thanking the rapporteurs mr varela and mr teverson
+ÇÖZÜM : m would like to begin by thanking the rapporteurs mr varela and mr teverson
+---
+HEDEF : the next item is the vote on the report a by mr varela suanzes carpegna
+ÇÖZÜM : the door item is the vote on the report a by mr varela won voters vote so remember question
+---
+HEDEF : parliament adopted the legislative resolution the next item is the vote on the report a by mr teverson
+ÇÖZÜM : wordliament adopted the legislative resolution committee system adopted is the vote on the report a by mr teverson
+---
+
+===== SNR 12 dB =====
+HEDEF : i therefore call on the commission to intervene in this matter
+ÇÖZÜM : i therefore call on the commission to intervene in this matter
+---
+HEDEF : madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy
+ÇÖZÜM : madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy
+---
+HEDEF : i would like to begin by thanking the rapporteurs mr varela and mr teverson
+ÇÖZÜM : i would like to begin by thanking the rapporteurs mr varela and mr teverson
+---
+HEDEF : the next item is the vote on the report a by mr varela suanzes carpegna
+ÇÖZÜM : the next item is the vote on the report a by mr varela suanzes carpegna
+---
+HEDEF : parliament adopted the legislative resolution the next item is the vote on the report a by mr teverson
+ÇÖZÜM : parliament adopted the legislative resolution the next item is the vote on the report a by mr teverson
+---

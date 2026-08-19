@@ -1,0 +1,17 @@
+iddia,A,B,snr,beklenen,fark,ci_alt,ci_ust,p,n,eslestirme,sonuc
+olcek 2B->4B,qwen2b-AWGN,qwen4b-fp16-AWGN,6,kazanc yok,-0.0062,-0.0244,0.0117,0.5034,150,icerik (150 cumle),ayirt_edilemez
+olcek 2B->4B,qwen2b-AWGN,qwen4b-fp16-AWGN,9,kazanc yok,-0.009,-0.019,0.0,0.0626,150,icerik (150 cumle),ayirt_edilemez
+nicemleme FP16->INT8,qwen2b-AWGN,qwen2b-int8-AWGN,6,kayip yok,0.0047,-0.0123,0.0219,0.5893,150,icerik (150 cumle),ayirt_edilemez
+nicemleme FP16->INT4,qwen2b-AWGN,qwen2b-int4-AWGN,6,kayip yok,0.0017,-0.0153,0.0187,0.8441,150,icerik (150 cumle),ayirt_edilemez
+esit bellek 2BFP16-4BINT4,qwen2b-AWGN,qwen4b-int4-AWGN,0,FP16 ustun,0.0402,0.0128,0.0701,0.0071,150,icerik (150 cumle),anlamli
+esit bellek 2BFP16-4BINT4,qwen2b-AWGN,qwen4b-int4-AWGN,6,fark yok,-0.002,-0.0209,0.0169,0.8377,150,icerik (150 cumle),ayirt_edilemez
+2B-INT4 vs 0.8B-FP16,qwen2b-int4-AWGN,qwen08b-AWGN,6,INT4 ustun,0.0224,0.0066,0.0379,0.0048,150,icerik (150 cumle),anlamli
+MANSET kodek vs 2B @0dB,M300-widesnr300,qwen2b-AWGN,0,kodek ustun,0.3865,0.357,0.4151,0.0,300,icerik (300 cumle),anlamli
+MANSET kodek vs 2B @3dB,M300-widesnr300,qwen2b-AWGN,3,kodek ustun,0.1838,0.1596,0.2081,0.0,300,icerik (300 cumle),anlamli
+MANSET kodek vs 2B @6dB,M300-base300,qwen2b-AWGN,6,LLM ustun,-0.0234,-0.0392,-0.0081,0.0012,300,icerik (300 cumle),anlamli
+MANSET kodek vs 2B @9dB,M300-base300,qwen2b-AWGN,9,LLM ustun,-0.0659,-0.0786,-0.054,0.0,300,icerik (300 cumle),anlamli
+MANSET kodek vs 2B @12dB,M300-base300,qwen2b-AWGN,12,LLM ustun,-0.071,-0.0823,-0.0603,0.0,300,icerik (300 cumle),anlamli
+iyilestirme base->widesnr @0,M300-base300,M300-widesnr300,0,widesnr ustun,-0.1547,-0.18,-0.1284,0.0,300,satir-sirasi,anlamli
+Rayleigh perH iyilestirmesi @3,M300-base300R,M300-perH300R,3,perH ustun,0.2343,0.19,0.2778,0.0,300,satir-sirasi,anlamli
+dil TR vs EN (0.8B),TR-qwen08b,ENpar-qwen08b,0,TR daha kotu,-0.1581,-0.2034,-0.1124,0.0,150,"indeks-zorunlu (150 cumle, paralel korpus)",anlamli
+dil TR vs EN (0.8B),TR-qwen08b,ENpar-qwen08b,6,TR daha kotu,-0.0243,-0.0439,-0.0051,0.0171,150,"indeks-zorunlu (150 cumle, paralel korpus)",anlamli

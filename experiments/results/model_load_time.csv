@@ -1,0 +1,10 @@
+konfig,quant,tepe_bellek_gb,tur,yukleme_sn
+qwen0.8b-fp16,none,1.506,soguk,6.5
+qwen0.8b-fp16,none,1.506,kararli,4.4
+qwen2b-fp16,none,3.764,soguk,7.4
+qwen2b-fp16,none,3.764,kararli,6.3
+qwen2b-int4,int4,1.807,soguk,11.8
+qwen2b-int4,int4,1.807,kararli,8.8
+qwen4b-int4,int4,3.364,soguk,26.1
+qwen4b-int4,int4,3.364,kararli,23.2
+qwen2b-int8,int8,2.429,soguk,13.5

@@ -1,0 +1,51 @@
+
+===== SNR 12 dB =====
+HEDEF : i therefore call on the commission to intervene in this matter
+ÇÖZÜM : i therefore call on the commission to intervene in this matter
+---
+HEDEF : madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy
+ÇÖZÜM : madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy
+---
+HEDEF : i would like to begin by thanking the rapporteurs mr varela and mr teverson
+ÇÖZÜM : i would like to begin by thanking the rapporteurs mr varela and mr teverson
+---
+HEDEF : the next item is the vote on the report a by mr varela suanzes carpegna
+ÇÖZÜM : the next item is the vote on the report a by mr varela suanzes carpegna
+---
+HEDEF : parliament adopted the legislative resolution the next item is the vote on the report a by mr teverson
+ÇÖZÜM : parliament adopted the legislative resolution the next item is the vote on the report a by mr teverson
+---
+
+===== SNR 15 dB =====
+HEDEF : i therefore call on the commission to intervene in this matter
+ÇÖZÜM : i therefore call on the commission to intervene in this matter
+---
+HEDEF : madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy
+ÇÖZÜM : madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy
+---
+HEDEF : i would like to begin by thanking the rapporteurs mr varela and mr teverson
+ÇÖZÜM : i would like to begin by thanking the rapporteurs mr varela and mr teverson
+---
+HEDEF : the next item is the vote on the report a by mr varela suanzes carpegna
+ÇÖZÜM : the next item is the vote on the report a by mr varela suanzes carpegna
+---
+HEDEF : parliament adopted the legislative resolution the next item is the vote on the report a by mr teverson
+ÇÖZÜM : parliament adopted the legislative resolution the next item is the vote on the report a by mr teverson
+---
+
+===== SNR 18 dB =====
+HEDEF : i therefore call on the commission to intervene in this matter
+ÇÖZÜM : i therefore call on the commission to intervene in this matter
+---
+HEDEF : madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy
+ÇÖZÜM : madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy
+---
+HEDEF : i would like to begin by thanking the rapporteurs mr varela and mr teverson
+ÇÖZÜM : i would like to begin by thanking the rapporteurs mr varela and mr teverson
+---
+HEDEF : the next item is the vote on the report a by mr varela suanzes carpegna
+ÇÖZÜM : the next item is the vote on the report a by mr varela suanzes carpegna
+---
+HEDEF : parliament adopted the legislative resolution the next item is the vote on the report a by mr teverson
+ÇÖZÜM : parliament adopted the legislative resolution the next item is the vote on the report a by mr teverson
+---

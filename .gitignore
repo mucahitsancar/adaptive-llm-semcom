@@ -1,0 +1,21 @@
+# Ağır artefaktlar bu depoda tutulmaz (README: 'Not included')
+data/
+checkpoints/
+third_party/
+experiments/results/trainlogs/
+*.pkl
+*.pth
+*.tgz
+*.tar
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sırlar
+.env

@@ -1,0 +1,68 @@
+
+===== SNR 0 dB =====
+HEDEF : <START> bu sahnede ikinci kez yer alma fırsatına sahip olmak gerçekten büyük bir onur çok minnettarım
+ÇÖZÜM : <START> bu yüzden ikinci teknoloji üzerine çalıştığımız sınıf alkışlar bence böyle büyük bir eğer çalıştığı yolunu da
+---
+HEDEF : <START> içeri girdik ve bir masaya oturduk <UNK> kız geldi ve <UNK> büyük bir ilgi gösterdi
+ÇÖZÜM : <START> temelde bu ve bir bakıma çalışırken ve enerji arasındaki şey var, iyi bir konuşma ile
+---
+HEDEF : <START> kahkahalar alkış bunun ne demek olduğunu anlayabilmeniz için kısa bir hikaye anlatacağım
+ÇÖZÜM : <START> ancak tabi alkış bunun nasıl olduğunu burada ve bir çocuk yapabiliriz
+---
+HEDEF : <START> şimdi ise bir uçağa <UNK> ayakkabılarımı çıkarmak zorunda kalıyorum !
+ÇÖZÜM : <START> en fazla da normalde normalde ateş etmiş olmak istedim
+---
+HEDEF : <START> bunu içtenlikle söylüyorum, çünkü ağlama taklidi buna ihtiyacım var
+ÇÖZÜM : <START> bunu ve çoğunun ve bu, tüm soru merak
+---
+
+===== SNR 6 dB =====
+HEDEF : <START> bu sahnede ikinci kez yer alma fırsatına sahip olmak gerçekten büyük bir onur çok minnettarım
+ÇÖZÜM : <START> bu yüzden dört kez yer o yüzden kahkahalar alkış gerçekten büyük bir yanıt çok iyisi
+---
+HEDEF : <START> içeri girdik ve bir masaya oturduk <UNK> kız geldi ve <UNK> büyük bir ilgi gösterdi
+ÇÖZÜM : <START> google bu ve bir sonuca var kendi neredeyse hemen ve kendi büyük bir konuşma söyler
+---
+HEDEF : <START> kahkahalar alkış bunun ne demek olduğunu anlayabilmeniz için kısa bir hikaye anlatacağım
+ÇÖZÜM : <START> kahkahalar alkış bunun nasıl demek olduğunu kendi için kısa bir hikaye gördük
+---
+HEDEF : <START> şimdi ise bir uçağa <UNK> ayakkabılarımı çıkarmak zorunda kalıyorum !
+ÇÖZÜM : <START> şimdi ise bir his kendi kendime sormak zorunda !
+---
+HEDEF : <START> bunu içtenlikle söylüyorum, çünkü ağlama taklidi buna ihtiyacım var
+ÇÖZÜM : <START> bunu bu eğer çünkü peki, çoğunun zor
+---
+
+===== SNR 12 dB =====
+HEDEF : <START> bu sahnede ikinci kez yer alma fırsatına sahip olmak gerçekten büyük bir onur çok minnettarım
+ÇÖZÜM : <START> bu yüzden ikinci kez neler yapacağını kendi sahip olmak gerçekten büyük bir sorunumuz çok iyi
+---
+HEDEF : <START> içeri girdik ve bir masaya oturduk <UNK> kız geldi ve <UNK> büyük bir ilgi gösterdi
+ÇÖZÜM : <START> bunlara yüzden ve bir sonraki var kendi temel dünya ve kendi büyük bir göz ile
+---
+HEDEF : <START> kahkahalar alkış bunun ne demek olduğunu anlayabilmeniz için kısa bir hikaye anlatacağım
+ÇÖZÜM : <START> kahkahalar alkış bunun ne demek olduğunu kendi için kısa bir hikaye göstereyim
+---
+HEDEF : <START> şimdi ise bir uçağa <UNK> ayakkabılarımı çıkarmak zorunda kalıyorum !
+ÇÖZÜM : <START> şimdi ise bir sonuca kendi kendime sordum ona sahibiz
+---
+HEDEF : <START> bunu içtenlikle söylüyorum, çünkü ağlama taklidi buna ihtiyacım var
+ÇÖZÜM : <START> bunu kendi çoğunun çünkü bu, kendi buna tehlikeli var
+---
+
+===== SNR 18 dB =====
+HEDEF : <START> bu sahnede ikinci kez yer alma fırsatına sahip olmak gerçekten büyük bir onur çok minnettarım
+ÇÖZÜM : <START> bu yüzden ikinci kez yer merkezi kendi sahip olmak gerçekten büyük bir sorunumuz çok zordu
+---
+HEDEF : <START> içeri girdik ve bir masaya oturduk <UNK> kız geldi ve <UNK> büyük bir ilgi gösterdi
+ÇÖZÜM : <START> bunlara yüzden ve bir sonuca var kendi temel dünyada ve kendi büyük bir konuşma söyler
+---
+HEDEF : <START> kahkahalar alkış bunun ne demek olduğunu anlayabilmeniz için kısa bir hikaye anlatacağım
+ÇÖZÜM : <START> kahkahalar alkış bunun ne demek olduğunu kendi için kısa bir hikaye anlatacağım
+---
+HEDEF : <START> şimdi ise bir uçağa <UNK> ayakkabılarımı çıkarmak zorunda kalıyorum !
+ÇÖZÜM : <START> şimdi ise bir sorunumuz yıldır çalışmak üzere, birlikte çalışıyoruz
+---
+HEDEF : <START> bunu içtenlikle söylüyorum, çünkü ağlama taklidi buna ihtiyacım var
+ÇÖZÜM : <START> bunu kendi karar oldu tüm dünyaya geliyor
+---

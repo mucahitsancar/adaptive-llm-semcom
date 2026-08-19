@@ -1,0 +1,6 @@
+analiz_edilemeyen_oran,kat_hal,kat_kip,kat_kisi,kat_olumsuzluk,kat_soru,kat_yeterlik,kat_zaman,kritik_tersinme_orani,label,msps,n,ozellik_sayisi
+0.0,0.3547,0.3676,0.5709,0.2143,0.5,0.2222,0.2803,0.7456,TR-qwen08b-snr0,0.4707,150,1500
+0.0,0.9628,0.9706,0.9603,0.9643,1.0,1.0,0.9494,0.0609,TR-qwen08b-snr6,0.9608,150,1507
+0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,TR-qwen08b-snr12,1.0,150,1507
+0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,TR-qwen08b-snr18,1.0,150,1511
+0.0,1.0,,0.8571,0.0,,0.5,0.8333,0.5,MSPS-saglamlik-testi,0.8333,6,30

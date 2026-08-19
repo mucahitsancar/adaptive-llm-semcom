@@ -1,0 +1,119 @@
+
+===== SNR 0 dB =====
+HEDEF : <START> moreover i am happy to be able to tell you that the flights have been reinstated for tomorrow  at least this is what we have been told 
+ÇÖZÜM : <START> the next item is the commission statement on behalf of the committee on behalf of the committee on behalf of the committee on the european union 
+---
+HEDEF : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+ÇÖZÜM : <START> i would like to thank the rapporteur for the rapporteur  i would like to thank you very much for your comments 
+---
+HEDEF : <START> another issue is are we covered by insurance should someone who contracts lung cancer try to make a case  that is a matter we should certainly investigate 
+ÇÖZÜM : <START> the next item is the commission 
+---
+HEDEF : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that clarifies things 
+ÇÖZÜM : <START> mr president mr president i would like to thank you for the first of the member states that we are not a very clear 
+---
+HEDEF : <START> consumers are rarely informed of their rights and more importantly they are often misled about the services provided by inaccurate advertising and conditions of participation in package holidays 
+ÇÖZÜM : <START> the next item is the commission 
+---
+
+===== SNR 3 dB =====
+HEDEF : <START> moreover i am happy to be able to tell you that the flights have been reinstated for tomorrow  at least this is what we have been told 
+ÇÖZÜM : <START> moreover i am happy to be able to tell you that the species have been forgotten for tomorrow  at least this is what we have been told 
+---
+HEDEF : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+ÇÖZÜM : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+---
+HEDEF : <START> another issue is are we covered by insurance should someone who contracts lung cancer try to make a case  that is a matter we should certainly investigate 
+ÇÖZÜM : <START> another issue is are we covered by insurance should someone who concluded the cancer try to make a case  that is a matter we should certainly investigate 
+---
+HEDEF : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that clarifies things 
+ÇÖZÜM : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that the so i think that constitutes things 
+---
+HEDEF : <START> consumers are rarely informed of their rights and more importantly they are often misled about the services provided by inaccurate advertising and conditions of participation in package holidays 
+ÇÖZÜM : <START> consumers are counting informed of their rights and more importantly they are often responsibility about the services provided by maybe advertising and conditions of participation in package 
+---
+
+===== SNR 6 dB =====
+HEDEF : <START> moreover i am happy to be able to tell you that the flights have been reinstated for tomorrow  at least this is what we have been told 
+ÇÖZÜM : <START> moreover i am happy to be able to tell you that the species have been distributed for tomorrow  at least this is what we have been told 
+---
+HEDEF : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+ÇÖZÜM : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+---
+HEDEF : <START> another issue is are we covered by insurance should someone who contracts lung cancer try to make a case  that is a matter we should certainly investigate 
+ÇÖZÜM : <START> another issue is are we covered by insurance should someone who came forward cancer try to make a case  that is a matter we should certainly investigate 
+---
+HEDEF : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that clarifies things 
+ÇÖZÜM : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that showed things 
+---
+HEDEF : <START> consumers are rarely informed of their rights and more importantly they are often misled about the services provided by inaccurate advertising and conditions of participation in package holidays 
+ÇÖZÜM : <START> consumers are requesting informed of their rights and more importantly they are often adapted about the services provided by the advertising and conditions of participation in package respect 
+---
+
+===== SNR 9 dB =====
+HEDEF : <START> moreover i am happy to be able to tell you that the flights have been reinstated for tomorrow  at least this is what we have been told 
+ÇÖZÜM : <START> moreover i am happy to be able to tell you to the species have been distributed for tomorrow  at least this is what we have been told 
+---
+HEDEF : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+ÇÖZÜM : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+---
+HEDEF : <START> another issue is are we covered by insurance should someone who contracts lung cancer try to make a case  that is a matter we should certainly investigate 
+ÇÖZÜM : <START> another issue is are we covered by rail should someone who concluded the years i want to a case of that is a matter we should certainly investigate 
+---
+HEDEF : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that clarifies things 
+ÇÖZÜM : <START> mrs green on request which was put to us concerns the two reports and mr von wogau has just confirmed that this so i think that puts things 
+---
+HEDEF : <START> consumers are rarely informed of their rights and more importantly they are often misled about the services provided by inaccurate advertising and conditions of participation in package holidays 
+ÇÖZÜM : <START> consumers are meant informed of their rights and more importantly they are often succeeded about the services provided by ensures advertising and conditions of participation in level 
+---
+
+===== SNR 12 dB =====
+HEDEF : <START> moreover i am happy to be able to tell you that the flights have been reinstated for tomorrow  at least this is what we have been told 
+ÇÖZÜM : <START> moreover i am happy to be able to tell you that the species have been distributed for tomorrow  at least this is what we have been told 
+---
+HEDEF : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+ÇÖZÜM : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+---
+HEDEF : <START> another issue is are we covered by insurance should someone who contracts lung cancer try to make a case  that is a matter we should certainly investigate 
+ÇÖZÜM : <START> another issue is are we covered by insurance should someone who met through cancer try to make a case  that is a matter we should certainly strike 
+---
+HEDEF : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that clarifies things 
+ÇÖZÜM : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that marks things 
+---
+HEDEF : <START> consumers are rarely informed of their rights and more importantly they are often misled about the services provided by inaccurate advertising and conditions of participation in package holidays 
+ÇÖZÜM : <START> consumers are expecting informed of their rights and more importantly they are often complied about the services provided by conservatives advertising and conditions of participation in package 
+---
+
+===== SNR 15 dB =====
+HEDEF : <START> moreover i am happy to be able to tell you that the flights have been reinstated for tomorrow  at least this is what we have been told 
+ÇÖZÜM : <START> moreover i am happy to be able to tell you that the species have been addressed for tomorrow  at least this is what we have been told 
+---
+HEDEF : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+ÇÖZÜM : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+---
+HEDEF : <START> another issue is are we covered by insurance should someone who contracts lung cancer try to make a case  that is a matter we should certainly investigate 
+ÇÖZÜM : <START> another issue is are we covered by insurance should someone who deserve murdered cancer try to make a case  that is a matter we should certainly investigate 
+---
+HEDEF : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that clarifies things 
+ÇÖZÜM : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that showed things 
+---
+HEDEF : <START> consumers are rarely informed of their rights and more importantly they are often misled about the services provided by inaccurate advertising and conditions of participation in package holidays 
+ÇÖZÜM : <START> consumers are counting informed of their rights and more importantly they are often ngl about the services provided by painful advertising and conditions of participation in package grown 
+---
+
+===== SNR 18 dB =====
+HEDEF : <START> moreover i am happy to be able to tell you that the flights have been reinstated for tomorrow  at least this is what we have been told 
+ÇÖZÜM : <START> moreover i am happy to be able to tell you that the species have been used for tomorrow  at least this is what we have been told 
+---
+HEDEF : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+ÇÖZÜM : <START> we happen to have the commissioner for transport here  i do not know whether he would care to comment but certainly we could do with his support 
+---
+HEDEF : <START> another issue is are we covered by insurance should someone who contracts lung cancer try to make a case  that is a matter we should certainly investigate 
+ÇÖZÜM : <START> another issue is are we covered by insurance should someone who contracts sends cancer try to make a case  that is a matter we should certainly investigate 
+---
+HEDEF : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that clarifies things 
+ÇÖZÜM : <START> mrs green the request which was put to us concerns the two reports and mr von wogau has just confirmed that  so i think that showed things 
+---
+HEDEF : <START> consumers are rarely informed of their rights and more importantly they are often misled about the services provided by inaccurate advertising and conditions of participation in package holidays 
+ÇÖZÜM : <START> consumers are counting informed of their rights and more importantly they are often deleted about the services provided by painful advertising and conditions of participation in package 
+---

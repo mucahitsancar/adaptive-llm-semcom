@@ -1,0 +1,6 @@
+config,quant,yukleme_sn
+qwen0.8b-fp16,none,11.3
+qwen2b-fp16,none,25.4
+qwen2b-int8,int8,1800.8
+qwen2b-int4,int4,39.5
+qwen4b-int4,int4,133.3

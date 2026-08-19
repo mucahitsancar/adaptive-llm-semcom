@@ -1,0 +1,119 @@
+
+===== SNR 0 dB =====
+HEDEF : <START> madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy 
+ÇÖZÜM : <START> madam president i have been the commission five points to the rules of mr schulz on behalf of the commission 
+---
+HEDEF : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s endeavours in this area 
+ÇÖZÜM : <START> mr president i would put to the rapporteur and thank you commissioner  well as you  i put in the commission s permission 
+---
+HEDEF : <START> one last word  the principle that the european union is there for its citizens and not vice versa really needs to be observed better in practice 
+ÇÖZÜM : <START> one british compromise  the european that european union is why we for its citizens out not the conference to continue to ensure anything both in deaths 
+---
+HEDEF : <START> i wish to welcome very warmly commissioner bonino s assurance that the european commission does not support the idea of quota sanctions linked to magp compliance 
+ÇÖZÜM : <START> i wish to ask the rapporteur to allow your space and to end   mr van den berg as placed values are that 
+---
+HEDEF : <START> mr van dam on behalf of the group of independents for a europe of nations now has the floor for two and a half minutes 
+ÇÖZÜM : <START> mr van den berg and the number of the absence of the people of procedure now has the two two points a strong half 
+---
+
+===== SNR 3 dB =====
+HEDEF : <START> madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy 
+ÇÖZÜM : <START> madam president i would like to make five points to the commissioner concerning mr president s report on the commission report on monitoring the common fisheries policy 
+---
+HEDEF : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s endeavours in this area 
+ÇÖZÜM : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s implications in this area 
+---
+HEDEF : <START> one last word  the principle that the european union is there for its citizens and not vice versa really needs to be observed better in practice 
+ÇÖZÜM : <START> one last word  the principle that the european union is there for its citizens and not vice president really needs to be observed better in practice 
+---
+HEDEF : <START> i wish to welcome very warmly commissioner bonino s assurance that the european commission does not support the idea of quota sanctions linked to magp compliance 
+ÇÖZÜM : <START> i wish to welcome very warmly commissioner reding s assurance that the european commission does not support the idea of textile sanctions linked to sit compliance 
+---
+HEDEF : <START> mr van dam on behalf of the group of independents for a europe of nations now has the floor for two and a half minutes 
+ÇÖZÜM : <START> mr van den on behalf of the group of auditors for a europe of nations now has the floor for two and a half minutes 
+---
+
+===== SNR 6 dB =====
+HEDEF : <START> madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy 
+ÇÖZÜM : <START> madam president i would like to make five points to the commissioner concerning mr president s report on the commission report on monitoring the common fisheries policy 
+---
+HEDEF : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s endeavours in this area 
+ÇÖZÜM : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s implications in this area 
+---
+HEDEF : <START> one last word  the principle that the european union is there for its citizens and not vice versa really needs to be observed better in practice 
+ÇÖZÜM : <START> one last word  the principle that the european union is there for its citizens and not vice president really needs to be observed better in practice 
+---
+HEDEF : <START> i wish to welcome very warmly commissioner bonino s assurance that the european commission does not support the idea of quota sanctions linked to magp compliance 
+ÇÖZÜM : <START> i wish to welcome very warmly commissioner reding s assurance that the european commission does not support the idea of meat sanctions linked to get compliance 
+---
+HEDEF : <START> mr van dam on behalf of the group of independents for a europe of nations now has the floor for two and a half minutes 
+ÇÖZÜM : <START> mr van den on behalf of the group of auditors for a europe of nations now has the floor for two and a half minutes 
+---
+
+===== SNR 9 dB =====
+HEDEF : <START> madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy 
+ÇÖZÜM : <START> madam president i would like to make five points to the commissioner concerning mr monti s report on the commission report on monitoring the common fisheries policy 
+---
+HEDEF : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s endeavours in this area 
+ÇÖZÜM : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s correction in this area 
+---
+HEDEF : <START> one last word  the principle that the european union is there for its citizens and not vice versa really needs to be observed better in practice 
+ÇÖZÜM : <START> one last word  the principle that the european union is there for its citizens and not vice president really needs to be observed better in practice 
+---
+HEDEF : <START> i wish to welcome very warmly commissioner bonino s assurance that the european commission does not support the idea of quota sanctions linked to magp compliance 
+ÇÖZÜM : <START> i wish to welcome very warmly commissioner others s assurance that the european commission does not support the idea of quota sanctions linked to sum compliance 
+---
+HEDEF : <START> mr van dam on behalf of the group of independents for a europe of nations now has the floor for two and a half minutes 
+ÇÖZÜM : <START> mr van den on behalf of the group of auditors for a europe of nations now has the floor for two and a half minutes 
+---
+
+===== SNR 12 dB =====
+HEDEF : <START> madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy 
+ÇÖZÜM : <START> madam president i would like to make five points to the commissioner concerning mr posselt s report on the commission report on monitoring the common fisheries policy 
+---
+HEDEF : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s endeavours in this area 
+ÇÖZÜM : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s endeavours in this area 
+---
+HEDEF : <START> one last word  the principle that the european union is there for its citizens and not vice versa really needs to be observed better in practice 
+ÇÖZÜM : <START> one last word  the principle that the european union is there for its citizens and not vice president really needs to be observed better in practice 
+---
+HEDEF : <START> i wish to welcome very warmly commissioner bonino s assurance that the european commission does not support the idea of quota sanctions linked to magp compliance 
+ÇÖZÜM : <START> i wish to welcome very warmly commissioner reding s assurance that the european commission does not support the idea of meat sanctions linked to be compliance 
+---
+HEDEF : <START> mr van dam on behalf of the group of independents for a europe of nations now has the floor for two and a half minutes 
+ÇÖZÜM : <START> mr van den on behalf of the group of auditors for a europe of nations now has the floor for two and a half minutes 
+---
+
+===== SNR 15 dB =====
+HEDEF : <START> madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy 
+ÇÖZÜM : <START> madam president i would like to make five points to the commissioner concerning mr monti s report on the commission report on monitoring the common fisheries policy 
+---
+HEDEF : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s endeavours in this area 
+ÇÖZÜM : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s endeavours in this area 
+---
+HEDEF : <START> one last word  the principle that the european union is there for its citizens and not vice versa really needs to be observed better in practice 
+ÇÖZÜM : <START> one last word  the principle that the european union is there for its citizens and not vice president really needs to be observed better in practice 
+---
+HEDEF : <START> i wish to welcome very warmly commissioner bonino s assurance that the european commission does not support the idea of quota sanctions linked to magp compliance 
+ÇÖZÜM : <START> i wish to welcome very warmly commissioner again s assurance that the european commission does not support the idea of quota sanctions linked to be compliance 
+---
+HEDEF : <START> mr van dam on behalf of the group of independents for a europe of nations now has the floor for two and a half minutes 
+ÇÖZÜM : <START> mr van den on behalf of the group of auditors for a europe of nations now has the floor for two and a half minutes 
+---
+
+===== SNR 18 dB =====
+HEDEF : <START> madam president i would like to make five points to the commissioner concerning mr teverson s report on the commission report on monitoring the common fisheries policy 
+ÇÖZÜM : <START> madam president i would like to make five points to the commissioner concerning mr posselt s report on the commission report on monitoring the common fisheries policy 
+---
+HEDEF : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s endeavours in this area 
+ÇÖZÜM : <START> mr president i have come to the conclusion of my remarks but i would just say that we fully support the commission s correction in this area 
+---
+HEDEF : <START> one last word  the principle that the european union is there for its citizens and not vice versa really needs to be observed better in practice 
+ÇÖZÜM : <START> one last word  the principle that the european union is there for its citizens and not vice president really needs to be observed better in practice 
+---
+HEDEF : <START> i wish to welcome very warmly commissioner bonino s assurance that the european commission does not support the idea of quota sanctions linked to magp compliance 
+ÇÖZÜM : <START> i wish to welcome very warmly commissioner others s assurance that the european commission does not support the idea of quota sanctions linked to incorporate compliance 
+---
+HEDEF : <START> mr van dam on behalf of the group of independents for a europe of nations now has the floor for two and a half minutes 
+ÇÖZÜM : <START> mr van den on behalf of the group of auditors for a europe of nations now has the floor for two and a half minutes 
+---

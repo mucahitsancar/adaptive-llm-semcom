@@ -1,0 +1,9 @@
+aksiyon,durum,gerekce
+DeepSC,dahil,
+DeepSC-improved,dahil,
+Qwen-0.8B-FP16,dahil,
+Qwen-2B-FP16,dahil,
+Qwen-2B-INT4,dahil,
+Qwen-2B-INT8,dahil,
+Qwen-4B-INT4,dahil,
+Qwen-4B-FP16,dislandi,gecikme/bellek ölçümü yok → cezası 0 sayılamaz
