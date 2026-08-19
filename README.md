@@ -23,6 +23,7 @@ src/                measurement and analysis pipeline
   msps.py               Morphological Semantic Preservation Score (Turkish)
   bootstrap_ci.py       paired bootstrap confidence intervals
   bench_*.py            latency, VRAM and model-load cost
+  preprocess_europarl.py  Europarl download and preprocessing
   build_*.py            long-sentence, Turkish and matched test sets
   make_fig*.py          figures
 experiments/
@@ -74,8 +75,9 @@ it is **device independent**. Latency is not.
 
 ## Policy action space
 
-`policy_actions.csv` records the action space and, explicitly, what was left out
-and why:
+The table below is the full picture: `policy_actions.csv` holds the candidate set
+and the one candidate that was dropped, and the paper states one further
+exclusion that never became a candidate. Both are listed here.
 
 | Action | Status |
 |---|---|
@@ -83,10 +85,25 @@ and why:
 | Qwen-0.8B FP16 | included |
 | Qwen-2B FP16 / INT8 / INT4 | included |
 | Qwen-4B INT4 | included |
-| Qwen-4B FP16 | **excluded** — no latency/memory measurement, so its penalty cannot be treated as zero |
+| Qwen-4B FP16 | **excluded** — no comparable latency/memory measurement (run on Colab), so its penalty cannot be treated as zero |
+| Qwen-4B INT8 | **excluded** — 6.31 GB peak memory exceeds the 6.0 GB budget, so it fails the memory constraint before the action space is formed; fidelity was measured on Colab, cost was not |
 
-An action whose cost was never measured is removed from the action space rather
-than assigned a free one; the exclusion and its reason are stored with the data.
+The two exclusions differ in kind. Qwen-4B FP16 *was* a candidate and was removed
+because its cost is unmeasured: an action whose cost was never measured must not be
+assigned a free one. Qwen-4B INT8 never entered the candidate set at all, because
+6.31 GB violates the memory constraint of the optimisation directly — which is why
+`policy_actions.csv`, whose scope is the candidate set, lists only the first.
+Both are stated as excluded in the paper.
+
+### Which λ values the paper reports
+
+`derive_policy.py` sweeps λ ∈ {0, 0.01, 0.03, 0.08, 0.20}. The paper reports
+λ ∈ {0.01, 0.03, 0.08}, the range where the decision is actually contested. The
+two endpoints are degenerate and carry no information about the rule: at λ = 0
+cost is free, and at λ = 0.20 the policy selects a codec at **every** operating
+point (5 × DeepSC, 3 × DeepSC-improved, no LLM anywhere), so every rule that can
+pick a codec ties. Both endpoints are present in `policy_table.csv` if you want
+to check this.
 
 ## Reproducing
 
@@ -159,7 +176,8 @@ label used in the paper.
   author    = {Sancar, M{\"u}cahit and Shah, A. F. M. Shahen},
   title     = {Resource- and Channel-Adaptive Large Language Model Selection
                for Text Semantic Communication},
-  booktitle = {Proc. IEEE GLOBECOM Workshops},
-  year      = {2026}
+  booktitle = {Submitted to IEEE GLOBECOM Workshops},
+  year      = {2026},
+  note      = {Under review; not yet accepted}
 }
 ```
